@@ -1,6 +1,4 @@
-## 👁️ Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=amnesia2k&color=green)
 
 # Hi there, I'm Olatilewa Olatoye 👋
 
