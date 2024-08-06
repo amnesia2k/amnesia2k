@@ -1,4 +1,8 @@
-## Hi there, I'm Olatilewa Olatoye 👋
+## 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)
+
+# Hi there, I'm Olatilewa Olatoye 👋
 
 I'm a Frontend Developer with a passion for Designing User-Friendly Interfaces. I currently work as an administrative assistant and I am branching into website development to upskill and take my career further. I enjoy cooking, playing games, and learning new stacks.
 
