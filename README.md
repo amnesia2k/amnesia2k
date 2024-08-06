@@ -32,7 +32,7 @@ I'm a Frontend Developer with a passion for Designing User-Friendly Interfaces. 
 - Advanced JavaScript
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?amnesia2k=amnesia2k&show_icons=true&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amnesia2k&show_icons=true&theme=default)
 
 <!--
 **amnesia2k/amnesia2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
