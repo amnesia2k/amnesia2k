@@ -3,9 +3,9 @@
 I'm a Frontend Developer with a passion for Designing User-Friendly Interfaces. I currently work as an administrative assistant and I am branching into website development to upskill and take my career further. I enjoy cooking, playing games, and learning new stacks.
 
 ## 🌐 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/olatilewaolatoye/)
+- [LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) (https://www.linkedin.com/in/olatilewaolatoye/)
 - [Twitter](https://x.com/amnesia_codm)
-- [Email](tilewaolatoye17@gmail.com)
+- [Email](mailto:tilewaolatoye17@gmail.com)
 
   ### Languages
 - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
