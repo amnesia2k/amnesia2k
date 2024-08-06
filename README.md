@@ -5,7 +5,7 @@ I'm a Frontend Developer with a passion for Designing User-Friendly Interfaces. 
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/olatilewaolatoye/)
 - [Twitter](https://x.com/amnesia_codm)
-- [Email](mailto:tilewaolatoye17@gmail.com)
+- [Email](tilewaolatoye17@gmail.com)
 
   ### Languages
 - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
