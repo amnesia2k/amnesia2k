@@ -34,11 +34,11 @@ I'm a Frontend Developer with a passion for Designing User-Friendly Interfaces. 
 - Advanced JavaScript
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amnesia2k&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amnesia2k&show_icons=true&theme=gruvbox)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amnesia2k&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amnesia2k&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=amnesia2k&theme=merko)
+![GitHub Streak](https://streak-stats.demolab.com?user=amnesia2k&theme=onedark)
 
 
 
