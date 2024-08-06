@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=amnesia2k&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=amnesia2k&color=red)
 
 # Hi there, I'm Olatilewa Olatoye 👋
 
@@ -35,6 +35,12 @@ I'm a Frontend Developer with a passion for Designing User-Friendly Interfaces. 
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amnesia2k&show_icons=true&theme=synthwave)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amnesia2k&layout=compact&theme=synthwave)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=amnesia2k&theme=synthwave)
+
+
 
 <!--
 **amnesia2k/amnesia2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
