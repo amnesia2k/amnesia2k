@@ -52,7 +52,6 @@
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=amnesia2k&show_icons=true&locale=en" alt="amnesia2k" />
   
-  <!-- <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=amnesia2k&" alt="amnesia2k" /> -->
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=amnesia2k" alt="GitHub Streak" /></a>
   </br>
 
