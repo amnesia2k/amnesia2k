@@ -52,7 +52,8 @@
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=amnesia2k&show_icons=true&locale=en" alt="amnesia2k" />
   
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=amnesia2k&" alt="amnesia2k" />
+  <!-- <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=amnesia2k&" alt="amnesia2k" /> -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=amnesia2k)](https://git.io/streak-stats)
   </br>
 
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amnesia2k&show_icons=true&locale=en&layout=compact" alt="amnesia2k" /> 
