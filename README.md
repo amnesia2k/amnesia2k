@@ -50,9 +50,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
+  <a href="https://git.io/streak-stats"><img width="390" src="https://streak-stats.demolab.com?user=amnesia2k" alt="GitHub Streak" /></a>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=amnesia2k&show_icons=true&locale=en" alt="amnesia2k" />
   
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=amnesia2k" alt="GitHub Streak" /></a>
   </br>
 
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amnesia2k&show_icons=true&locale=en&layout=compact" alt="amnesia2k" /> 
