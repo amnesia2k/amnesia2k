@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amnesia2k&label=Profile%20views&color=0e75b6&style=flat" alt="amnesia2k" /> </p>
 
 
-- 🔭 I’m currently working on **Word Wiz, a Spelling Bee website and application.**
+- 🔭 I’m currently working on **Lumina AI, an AI solution that provides assistance to basic need-to-know topics. It is being built on OpenAI GPT model 3.5**
 
 - 🌱 I’m currently learning **ReactJS**
 
