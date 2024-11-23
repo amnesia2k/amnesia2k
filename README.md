@@ -49,10 +49,10 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<div align="center">
+<div>
   
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=amnesia2k&theme=radical&hide_border=true&width=325)
-  ![](https://github-readme-stats.vercel.app/api?username=amnesia2k&theme=radical&hide_border=true&include_all_commits=true&count_private=true&width=325)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=amnesia2k&theme=radical&hide_border=true)
+  ![](https://github-readme-stats.vercel.app/api?username=amnesia2k&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br />
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amnesia2k&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
