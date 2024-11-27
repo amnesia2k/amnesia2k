@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **problem solving projects.**
 
-- 🤝 I’m looking for help with **JavaScript and NextJS**
+- 🤝 I’m looking for help with **TypeScript and NextJS**
 
 - 📫 How to reach me **tilewaolatoye17@gmail.com**
 
