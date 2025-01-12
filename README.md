@@ -1,6 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
+<!-- ![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif) -->
 <h1 align="center">Hi 👋, I'm Olatilewa</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">I am a Frontend Developer</h3>
 </br>
 
 <img align="right" alt="coder" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amnesia2k&label=Profile%20views&color=0e75b6&style=flat" alt="amnesia2k" /> </p>
 
 
-- 🔭 I’m currently working on **African Esport Blog**
+<!-- - 🔭 I’m currently working on **African Esport Blog** -->
 
 - 🌱 I’m currently learning **NextJS**
 
@@ -49,10 +49,26 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<div>
-  
+<div align="center">
+  <a href="https://github.com/amnesia2k/github-readme-streak-stats">
+    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=amnesia2k&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+
+  <a href="https://github.com/amnesia2k/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=amnesia2k&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+
+  <a href="https://github.com/amnesia2k/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnesia2k&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Top Lang" />
+  </a>
+</div>
+
+<!-- <div>
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=amnesia2k&theme=tokyonight)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amnesia2k&show_icons=true&theme=tokyonight)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amnesia2k&layout=compact&theme=tokyonight)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=amnesia2k&theme=radical&hide_border=true)
   ![](https://github-readme-stats.vercel.app/api?username=amnesia2k&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br />
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amnesia2k&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</div>
+</div> -->
 
