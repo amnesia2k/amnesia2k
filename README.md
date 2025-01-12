@@ -26,7 +26,7 @@
   <h2>🔗 Connect with me 🔗</h2>
   </br>
   <p>
-  <a href="https://twitter.com/kang_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kang_codes" height="30" width="40" /></a>
+  <a href="https://twitter.com/@ola_the_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ola_the_dev" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/olatilewaolatoye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olatilewaolatoye" height="30" width="40" /></a>
   <a href="https://medium.com/@tilewaolatoye17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tilewaolatoye17" height="30" width="40" /></a>
   </p>
