@@ -39,9 +39,8 @@
 </br>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,html,css,scss,git" /> </br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,vscode,figma,typescript,next" />
-    <img src="https://skillicons.dev/icons?i=express,postgresql,prisma,vscode,figma,typescript,next" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,typescript,react,next,git" /> </br>
+    <img src="https://skillicons.dev/icons?i=express,tailwind,postgresql,vscode,figma,prisma," />
   </a>
 </div>
 </br>
