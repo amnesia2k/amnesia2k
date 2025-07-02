@@ -37,9 +37,10 @@
   <a href="https://medium.com/@tilewaolatoye17" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tilewaolatoye17" height="30" width="40" />
   </a>
+  
+📫 You can reach me: **tilewaolatoye17@gmail.com**
 </div>
 
-📫 You can reach me: **tilewaolatoye17@gmail.com**
 
 ---
 
