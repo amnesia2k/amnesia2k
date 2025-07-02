@@ -17,11 +17,10 @@
 
 ### 🚀 About Me
 
-- 🛠 Currently building with **Next.js, Express.js, Prisma, Neon, and Drizzle**
-- 🌍 I use the **T3 Stack** like it's second nature (shoutout to Theo)
-- 🔁 Loving the vibes of **Zustand, TailwindCSS, shadcn/ui**, and **TypeScript**
+- 🛠 Currently building with **Next.js, Express.js, and PostgreSQL**
+- 🔁 I daily drive **Zustand, TailwindCSS, shadcn/ui**, and **TypeScript**
 - 🧠 Still sharpening my skills in **backend patterns**, and diving deeper into clean architecture and server actions
-- 🎯 Interested in working on **tools, eCommerce platforms, and community-focused apps**
+- 🎯 Interested in working on **tools, and community-focused apps**
 - 🎮 Fun fact: I'm a decent cook, but don't 1v1 me in an FPS — unless you're ready to respawn.
 
 ---
