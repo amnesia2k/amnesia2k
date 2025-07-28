@@ -21,7 +21,7 @@
 - 🔁 I daily drive **Zustand, TailwindCSS, shadcn/ui**, and **TypeScript**
 - 🧠 Still sharpening my skills in **backend patterns**, and diving deeper into clean architecture and server actions
 - 🎯 Interested in working on **tools, and community-focused apps**
-- 🎮 Fun fact: I'm a decent cook, but don't 1v1 me in an FPS — unless you're ready to respawn.
+- 🎮 Fun fact: I'm a decent cook.
 
 ---
 
